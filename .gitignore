@@ -1,0 +1,44 @@
+# IDE Settings Folders
+/.idea/
+/.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.history/
+
+# Project Environment Folders/Configs
+/venv/Lib/site-packages/
+/venv/Scripts/
+/venv/pyvenv.cfg
+
+# Environment Variables
+*.env
+
+# Thumbnail Cache Files
+ehthumbs.db
+Thumbs.db
+Thumbs.db:encryptable
+.DS_Store
+
+# Folder Config Files
+[Dd]esktop.ini
+
+# Dump File
+*.stackdump
+
+# Windows Shortcuts
+*.lnk
+/main.log
+/main.log.2022-06-11_14
+/main.log.2022-06-15_14
+/main.log.2022-06-15_17
+/main.log.2022-06-16_09
+/main.log.2022-10-07_08
+/main.log.2022-11-03_07
+/main.log.2022-12-07_08
+/main.log.2023-01-09_13
+/main.log.2023-01-10_10
+/main.log.2023-02-06_10
+/main.log.2023-02-06_12
